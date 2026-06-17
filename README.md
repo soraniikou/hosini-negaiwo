@@ -52,9 +52,21 @@ Just speak, if you want to. The stars will listen.
 
 &nbsp;
 
-## Live
+ Live
 
 🌌 [Try aisiteru310](https://aisiteru310.vercel.app)
+
+技術ノート
+
+純粋なHTML/CSS/JavaScript — フレームワークなし、依存関係なし
+
+リアルタイム音声可視化のためのWeb Audio API
+
+キャンバスベースのオーロラと星のアニメーション
+
+モバイルとデスクトップの両方で動作します
+
+音声データはすべてローカルに保持され、外部に送信されることはありません。
 
 &nbsp;
 
