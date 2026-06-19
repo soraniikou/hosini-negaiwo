@@ -1,14 +1,13 @@
- aisiteru310
-🌠if I became a star — could I find you again?* https://aisiteru310.vercel.app
+ 🌠if I became a star — could I find you again?* https://hosini-negaiwo.vercel.app
 
 Stars rising from a voice. An aurora born from sound. Orion turning slowly overhead, indifferent and eternal. A safe place to speak the words that have nowhere else to go.
 
 *If I became a star, could I be close to you?*  
-That question became the subtitle of this app.
+
 
 &nbsp;
 
-## What aisiteru does
+ What hosini-negaiwo does
 
 **For those who just want to watch:**  
 Simply gaze at the screen. Let your wishes dissolve into the stars and shooting stars of Orion. No action required.
@@ -54,7 +53,7 @@ Just speak, if you want to. The stars will listen.
 
  Live
 
-🌌 [Try aisiteru310](https://aisiteru310.vercel.app)
+🌌 [Try hosini-negaiwo](https://hosini-negaiwo.vercel.app)
 
 技術ノート
 
