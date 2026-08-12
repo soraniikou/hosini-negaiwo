@@ -1,5 +1,5 @@
  🌠
- What love yourself does
+ What hoshini negaiwo does
 
 **For those who just want to watch:**  
 Simply gaze at the screen. Let your wishes dissolve into the stars and shooting stars of Orion. No action required.
