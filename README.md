@@ -1,12 +1,4 @@
- 🌠if I became a star — could I find you again?* https://hosini-negaiwo.vercel.app
-
-Stars rising from a voice. An aurora born from sound. Orion turning slowly overhead, indifferent and eternal. A safe place to speak the words that have nowhere else to go.
-
-*If I became a star, could I be close to you?*  
-
-
-&nbsp;
-
+ 🌠
  What hosini-negaiwo does
 
 **For those who just want to watch:**  
