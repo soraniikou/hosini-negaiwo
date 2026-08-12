@@ -1,5 +1,5 @@
  🌠
- What hosini-negaiwo does
+ What love yourself does
 
 **For those who just want to watch:**  
 Simply gaze at the screen. Let your wishes dissolve into the stars and shooting stars of Orion. No action required.
@@ -24,11 +24,11 @@ Record your voice. Play it back. Or don't — it's enough to have spoken it once
 
 | Button | Action |
 |--------|--------|
-| 🎤 | Tap to activate mic — speak and watch stars appear |
+| 🎤 | Tap to activate mic — Just speak and watch stars appear |
 | ⏺ | Record your voice |
 | ▶ | Play back your recording |
 
-You don't have to record. You don't have to play it back.  
+  
 Just speak, if you want to. The stars will listen.
 
 &nbsp;
