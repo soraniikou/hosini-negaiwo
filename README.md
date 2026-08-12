@@ -10,13 +10,6 @@ Tap the microphone. Speak your feelings — whatever lives inside you that has n
 **For those who want to remember:**  
 Record your voice. Play it back. Or don't — it's enough to have spoken it once, in a place where no one else can hear.
 
-&nbsp;
-
- Who this is for
-
-- People who live responsibly every day and carry a quiet longing they've never voiced
-- Anyone who has felt overwhelmed by admiration for someone else's gift
-  
 
 &nbsp;
 
