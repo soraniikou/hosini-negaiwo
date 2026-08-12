@@ -24,16 +24,16 @@ Record your voice. Play it back. Or don't — it's enough to have spoken it once
 
 | Button | Action |
 |--------|--------|
-| 🎤 | Tap to activate mic — Just speak and watch stars appear |
-| ⏺ | Record your voice |
-| ▶ | Play back your recording |
+| 🎤 | Tap to activate mic — Just speak and watch stars appear |マイクを押すと　声に反応して星になります
+| ⏺ | Record your voice | tap  again to stop　　　　　　　　　　　丸いボタンで録音する⇒再び丸いボタン推して　録音stop
+| ▶ | Play back your recording |                                 三角ボタンで再生できます
 
   
 Just speak, if you want to. The stars will listen.
 
 &nbsp;
 
- Technical notes
+🌖 Technical notes
 
 - Pure HTML / CSS / JavaScript — no frameworks, no dependencies
 - Web Audio API for real-time voice visualization
